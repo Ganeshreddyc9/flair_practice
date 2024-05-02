@@ -1,0 +1,105 @@
+
+brief about your  python experience
+i have worked on test case development here mainly there i used like oops concepts in selenium i used
+
+like scripts will be there ---> where do u get or extract data  scrips from ? --
+
+development team there developing the scripts for that i used to write test cases pytest
+
+
+
+
+make it in dicttionary as key , value output ->{324:44,45:23,5:5,34:23}
+# list1=[324,45,5,34]
+# list2=[44,23,5,23]
+# # print(dict[list1])
+
+# dict_1 = {}
+# for val,val1 in list1,list2:
+#     print(val,val1)
+
+
+#     for val1 in list2:
+
+#         dict_1[val] = val1
+# print(dict_1)
+
+
+
+# dict_1 = (dict(map(list1,list2)))
+# print(dict_1)
+
+remove duplicates from the given dict output->{'b':1,'d':2}
+# dict_1 = {"a":0,"b":1,"c":0,"d":2,'e':0}
+# print(dict_1)
+# dict_1['e']=0
+# print(dict_1)
+
+# dict_2 = {}
+# for key,value in dict_1.items():
+#     # print(key,value)
+#     if value == 0:
+#         dict_2.(key,value)
+# print(dict_2)
+
+
+convert into integer and add them
+# a
+
+# # integer = int(str_week_temps_f)
+# # print(integer)
+# str = str_week_temps_f.split(",")
+# print(str)
+
+# integer = int(str)
+# print(integer)
+
+
+
+# count = 0
+# for i in join_1:
+#     print(i)
+
+use list compreshentions and if "a" there in word remove that elements
+# fruits = ["apple", "banana", "cherry", "kiwi", "mango"]
+
+# list_1 = [fruit.remove(char) for char in (fruits) if char in fruits]
+# print(list_1)
+
+# strMsg="interview"
+# # print(strMsg[::-1])
+
+
+create a class and method
+# class File:
+
+#     def __init__(self,name,company):
+#         self.name = name
+#         self.comany = company
+#     def method(self):
+#
+
+
+#         return self.name , self.comany
+
+
+# obj = File('ganesh',"xyz")
+# m = obj.method()
+# print(m[0])
+# print(m[1])
+
+
+given two lists and give me the output as out=[14,15,16,17,24,25,26,27,34,35,36,37] ?
+
+input1=[1,2,3]
+input2=[4,5,6,7]
+
+
+for
+
+things learnt from this u missing the small thingsur getting near but not able to cokmplete
+
+so practice problems a lot man dont waste time this is good opurtunity but u missed it dono...
+
+
+
